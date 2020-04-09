@@ -15,6 +15,7 @@ public class Greeting
 	System.out.println("Hello Lee!");
 
 	System.out.println("Hello Cho!");
+	System.out.println("Hello Ryu!");
 
    }
 }

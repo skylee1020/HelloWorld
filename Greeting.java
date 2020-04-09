@@ -11,7 +11,6 @@ public class Greeting
    //-----------------------------------------------------------------
    public static void main (String[] args)
    {
-	System.out.println("Hello World");
 	System.out.println("Hello Kim!");
 	System.out.println("Hello Lee!");
    }

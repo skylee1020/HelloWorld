@@ -13,6 +13,9 @@ public class Greeting
    {
 	System.out.println("Hello World");
 	System.out.println("Hello Kim!");
-	System.out.println("Hello Lee!");      
+	System.out.println("Hello Lee!");
+	for (int i=0; i< 10; i++) {
+		System.out.println("Hello " + i);
+	}
    }
 }

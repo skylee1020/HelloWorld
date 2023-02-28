@@ -4,7 +4,7 @@
 //  Demonstrates the basic structure of a Java application.
 //********************************************************************
 
-public class Greeting
+public class GreetingNew
 {
    //-----------------------------------------------------------------
    //  Prints a greeting message.

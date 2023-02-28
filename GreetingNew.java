@@ -4,6 +4,8 @@
 //  Demonstrates the basic structure of a Java application.
 //********************************************************************
 
+//Add new comments
+
 public class Greeting
 {
    //-----------------------------------------------------------------

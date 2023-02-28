@@ -14,5 +14,6 @@ public class GreetingNew
    {
 	System.out.println("Hello Kim!");
 	System.out.println("Hello GoGo!");
+	System.out.println("Hello Lee!");
    }
 }

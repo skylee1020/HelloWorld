@@ -13,7 +13,7 @@ public class GreetingNew
    public static void main (String[] args)
    {
 	System.out.println("Hello Kim!");
-	System.out.println("Hello Lee!");
+	System.out.println("Hello Park!");
 
 	//System.out.println("Hello Cho!");
 	//System.out.println("Hello");   
